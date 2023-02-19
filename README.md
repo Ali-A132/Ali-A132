@@ -7,17 +7,16 @@
 </p>
 
 <p align="center">
-  💻 I am currently working on my portfolio site: https://akbarali.tech/
+  💻 I am working on my portfolio site: https://akbarali.tech/
 </p>
 <p align="center">
-  📫 How to reach me: ...
+  📚 I'm currently in my second year of Computer Science at Wilfrid Laurier University
 </p>
 <p align="center">
-   ⚡ Fun fact:
+   ⚡ Fun fact: I love playing piano and rollerblading
 </p>
-<p align="center">
-  ---------------------------------------------
-</p>
+
+<hr/>
 
 
 
