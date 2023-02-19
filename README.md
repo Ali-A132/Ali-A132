@@ -13,7 +13,7 @@
   📚 I'm currently in my second year of Computer Science at Wilfrid Laurier University
 </p>
 <p align="center">
-   ⚡ Fun fact: I love playing piano and rollerblading
+   ⚡ Fun fact: I love playing piano, video editing, and rollerblading
 </p>
 
 <hr/>
