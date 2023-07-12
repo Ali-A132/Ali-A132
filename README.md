@@ -10,7 +10,7 @@
   💻 I am working on my portfolio site: https://akbarali.tech/
 </p>
 <p align="center">
-  📚 I'm currently in my second year of Computer Science at Wilfrid Laurier University
+  📚 I'm currently in my third year of Computer Science at Wilfrid Laurier University
 </p>
 <p align="center">
    ⚡ Fun fact: I love playing piano, video editing, and rollerblading
