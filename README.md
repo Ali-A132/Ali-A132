@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  💻 I am working on my portfolio site: https://akbarali.tech/
+  💻 I am working on my portfolio site: https://portfolio-of-ali.web.app/
 </p>
 <p align="center">
   📚 I'm currently in my third year of Computer Science at Wilfrid Laurier University
